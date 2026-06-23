@@ -1,0 +1,14 @@
+C:\Users\Aditya Kumar Singh\DN5.0\Design_Pattern\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.exe
+C:\Users\Aditya Kumar Singh\DN5.0\Design_Pattern\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.deps.json
+C:\Users\Aditya Kumar Singh\DN5.0\Design_Pattern\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.runtimeconfig.json
+C:\Users\Aditya Kumar Singh\DN5.0\Design_Pattern\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.dll
+C:\Users\Aditya Kumar Singh\DN5.0\Design_Pattern\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.pdb
+C:\Users\Aditya Kumar Singh\DN5.0\Design_Pattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Kumar Singh\DN5.0\Design_Pattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.AssemblyInfoInputs.cache
+C:\Users\Aditya Kumar Singh\DN5.0\Design_Pattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.AssemblyInfo.cs
+C:\Users\Aditya Kumar Singh\DN5.0\Design_Pattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Kumar Singh\DN5.0\Design_Pattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.dll
+C:\Users\Aditya Kumar Singh\DN5.0\Design_Pattern\FactoryMethodPattern\obj\Debug\net10.0\refint\FactoryMethodPattern.dll
+C:\Users\Aditya Kumar Singh\DN5.0\Design_Pattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.pdb
+C:\Users\Aditya Kumar Singh\DN5.0\Design_Pattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.genruntimeconfig.cache
+C:\Users\Aditya Kumar Singh\DN5.0\Design_Pattern\FactoryMethodPattern\obj\Debug\net10.0\ref\FactoryMethodPattern.dll

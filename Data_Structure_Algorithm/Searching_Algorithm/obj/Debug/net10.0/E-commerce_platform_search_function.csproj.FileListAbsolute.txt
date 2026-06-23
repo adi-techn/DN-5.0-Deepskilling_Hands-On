@@ -1,0 +1,14 @@
+C:\Users\Aditya Kumar Singh\DN5.0\Data_Structure_Algorithm\E-commerce_platform_search_function\bin\Debug\net10.0\E-commerce_platform_search_function.exe
+C:\Users\Aditya Kumar Singh\DN5.0\Data_Structure_Algorithm\E-commerce_platform_search_function\bin\Debug\net10.0\E-commerce_platform_search_function.deps.json
+C:\Users\Aditya Kumar Singh\DN5.0\Data_Structure_Algorithm\E-commerce_platform_search_function\bin\Debug\net10.0\E-commerce_platform_search_function.runtimeconfig.json
+C:\Users\Aditya Kumar Singh\DN5.0\Data_Structure_Algorithm\E-commerce_platform_search_function\bin\Debug\net10.0\E-commerce_platform_search_function.dll
+C:\Users\Aditya Kumar Singh\DN5.0\Data_Structure_Algorithm\E-commerce_platform_search_function\bin\Debug\net10.0\E-commerce_platform_search_function.pdb
+C:\Users\Aditya Kumar Singh\DN5.0\Data_Structure_Algorithm\E-commerce_platform_search_function\obj\Debug\net10.0\E-commerce_platform_search_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Kumar Singh\DN5.0\Data_Structure_Algorithm\E-commerce_platform_search_function\obj\Debug\net10.0\E-commerce_platform_search_function.AssemblyInfoInputs.cache
+C:\Users\Aditya Kumar Singh\DN5.0\Data_Structure_Algorithm\E-commerce_platform_search_function\obj\Debug\net10.0\E-commerce_platform_search_function.AssemblyInfo.cs
+C:\Users\Aditya Kumar Singh\DN5.0\Data_Structure_Algorithm\E-commerce_platform_search_function\obj\Debug\net10.0\E-commerce_platform_search_function.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Kumar Singh\DN5.0\Data_Structure_Algorithm\E-commerce_platform_search_function\obj\Debug\net10.0\E-commerce_platform_search_function.dll
+C:\Users\Aditya Kumar Singh\DN5.0\Data_Structure_Algorithm\E-commerce_platform_search_function\obj\Debug\net10.0\refint\E-commerce_platform_search_function.dll
+C:\Users\Aditya Kumar Singh\DN5.0\Data_Structure_Algorithm\E-commerce_platform_search_function\obj\Debug\net10.0\E-commerce_platform_search_function.pdb
+C:\Users\Aditya Kumar Singh\DN5.0\Data_Structure_Algorithm\E-commerce_platform_search_function\obj\Debug\net10.0\E-commerce_platform_search_function.genruntimeconfig.cache
+C:\Users\Aditya Kumar Singh\DN5.0\Data_Structure_Algorithm\E-commerce_platform_search_function\obj\Debug\net10.0\ref\E-commerce_platform_search_function.dll
